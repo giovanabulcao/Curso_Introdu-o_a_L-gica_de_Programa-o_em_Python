@@ -1,1 +1,1 @@
-# Curso_Introdu-o_a_L-gica_de_Programa-o_em_Python
+## Curso de Introdução a Lógica de Programação em Python
